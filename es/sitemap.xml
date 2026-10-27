@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/es/categories/</loc>
+    <loc>https://juliedodd.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/categories/"
+                href="https://juliedodd.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/categories/"
+                href="https://juliedodd.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/categories/"
+                href="https://juliedodd.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/es/</loc>
+    <loc>https://juliedodd.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/"
+                href="https://juliedodd.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/"
+                href="https://juliedodd.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/"
+                href="https://juliedodd.github.io/fr/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/es/tags/</loc>
+    <loc>https://juliedodd.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://hugo-profile.netlify.app/tags/"
+                href="https://juliedodd.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hugo-profile.netlify.app/es/tags/"
+                href="https://juliedodd.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hugo-profile.netlify.app/fr/tags/"
+                href="https://juliedodd.github.io/fr/tags/"
                 />
   </url>
 </urlset>

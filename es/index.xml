@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Julie Dodd</title>
-		<link>https://hugo-profile.netlify.app/es/</link>
+		<link>https://juliedodd.github.io/es/</link>
 		<description>Recent content on Julie Dodd</description>
 		<generator>Hugo</generator>
 		<language>es</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://hugo-profile.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://juliedodd.github.io/es/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

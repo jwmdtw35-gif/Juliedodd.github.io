@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Rich Content on Julie Dodd</title>
-		<link>https://hugo-profile.netlify.app/blogs/rich-content/</link>
+		<link>https://juliedodd.github.io/blogs/rich-content/</link>
 		<description>Recent content in Rich Content on Julie Dodd</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="https://hugo-profile.netlify.app/blogs/rich-content/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://juliedodd.github.io/blogs/rich-content/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
